@@ -1,2 +1,5 @@
-# react-native-course
-Rian Grove's Mobile Program Repository 
+# React Native Course
+
+Rian Grove's 
+
+This repository will contain my work for the React Native course.
